@@ -4,4 +4,4 @@ here's some of my wordpress works, they are customizable for any purpose >>> mr.
 <br>
 Most templates are multifunctional, Store, office, service, media and so on
 <br>
-\# ast
+/# ast
