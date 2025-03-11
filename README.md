@@ -1,7 +1,7 @@
 # wordpress portfolios - نمونه کارهای وردپرس 
 here's some of my wordpress works, they are customizable for any purpose >>> mr.morady.t@gmail.com 
 # Thames:
-Most templates are multifunctional, Store, office, service, media and so on
+Most templates are multifunctional, Shop, office, service, media and so on
 <br>
 #Fire
 <br>
